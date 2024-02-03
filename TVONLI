@@ -170,7 +170,7 @@
       },
       {
         "name": "TangoTV.ar",
-        "uri": "https://video.misistemareseller.com/8118/8118/playlist.m3u8",
+        "uri": "qxjfLRbUidYR2hD6R2uolUHPiQnqDun2mcEti12kJx1OkfsN/vVMjr3nD6YguosjYRIyIolkgPIeFoEo3kDbWQ==",
         "icono": "https://i.ibb.co/g6KXPgt/download-58.jpg"
       },
       {
@@ -405,13 +405,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEFigOy0enhkAS85KSj9ON35m3W1JNjwhJxjTRIncps7oV9iXcY/KdatdfQNOJ+laNeGXHjrJXkUL1fkdG7Ocb3+/64owDvYys1wPl37N14Y75JAQ+CQ6VZtOe3Nw5x65avDXgLkT1fBeTSlNZUKIyNI=",
         "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
-      },
-      {
-        "name": "prueba",
-        "uri": "muuTGshJgR68uJ/YtDB6TSj+MLXtKzQ9vWOSZtNkQt5fnmseUJNw12alSmNvuoPy",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "muuTGshJgR68uJ/YtDB6TSj+MLXtKzQ9vWOSZtNkQt5fnmseUJNw12alSmNvuoPy",
-        "icono": "https://static.tvar.io/imagenes/telesol.png"
       }
     ]
   },
