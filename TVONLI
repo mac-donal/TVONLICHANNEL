@@ -18,7 +18,8 @@
         "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
       },
       {
-        "name": "TIGO GUATEMALA",  "uriuwR45gLa+GVlObpK9V0yMddfyPqGB/8ql1RLZ33skk1GPQAZf+63UXcWKHEfiRJmN/jk9uGjZ19peOitnMWnfel2/upq06wU0XaCmnBGiyAIZfa5ZRZMteY3NMZNw/tBm2o2zHIozhq8GASnXKddogiH99raBW6U5+ecjFyesu17zofLNu98O3IaVYnCu0W9efjoouPh9963cKRCMPAyvpdMPIXmtep1fXCJvWHiEsg=",
+        "name": "TIGO GUATEMALA",
+        "uri": "uriuwR45gLa+GVlObpK9V0yMddfyPqGB/8ql1RLZ33skk1GPQAZf+63UXcWKHEfiRJmN/jk9uGjZ19peOitnMWnfel2/upq06wU0XaCmnBGiyAIZfa5ZRZMteY3NMZNw/tBm2o2zHIozhq8GASnXKddogiH99raBW6U5+ecjFyesu17zofLNu98O3IaVYnCu0W9efjoouPh9963cKRCMPAyvpdMPIXmtep1fXCJvWHiEsg=",
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
       }
     ]
@@ -126,7 +127,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEGCJfEpFTCsysbRnnPHUh6I3I3gcUFU508WvkXVHyIc9u1l3VZUmIKnJ30eDA9jZKvavFBODsx+ll+eBTnpio7v4ltGgrskt4WGK/3PC7pxhynC74YawVaaDqSw8mbaa2w==",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
- 
       },
       {
         "name": "CANAL 12 CORDOBA",
@@ -487,7 +487,7 @@
       {
         "name": "FOX SPORTS PREMIUM",
         "uri": "bAHt6sbeNMkR8iApP/ocaL/o1IOTnvl4bpLt3fApEkOsFX/bzrfr3d/WoisNhiWUtQ3LKvH3w3lP7NKwfdDfHg==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" 
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png"
       },
       {
         "name": "ESPN PREMIUM",
@@ -1413,7 +1413,7 @@
         "name": "Gospel Movies",
         "uri": "KdXKREb0FF3iOsyh0zIJwGfawvbBRmneM9A4WG2cUEijrao3xG69gQgBtZlFMcDSiYT/0PjvutUexQqgzE58zkMG736bOWGBLXr79RVB58U=",
         "icono": "https://cdna.artstation.com/p/assets/images/images/051/783/186/large/touati-fellouh-021.jpg?1658166568"
-     },
+      },
       {
         "name": "Revry Brasil",
         "uri": "kb3LXvGVGN+OO5q2oxfwKy2uOBaU5p8wu26MkJenZdhhEaMbi3PTAT/R44HjnOPQnR3eG4FQALOb8ceF7dAtOnX20BNdOW+VwghlZ9ZTRJw=",
