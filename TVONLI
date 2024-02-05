@@ -164,7 +164,12 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
-       "name": " Canal 4 (Posadas)",
+       "name": " Canal 9 (Rio Cuarto)",
+        "uri": "6j2u+ToWSbC1THh+IJyxCPKYqSb76fzayZGbN8RSwzuAeDjlg9mnoh+5U5uM4BeK5kNy8JEFVT5B0M6HeM8FYmkUscl+x5XmB3EfHm1elOk=",
+        "icono": "https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-6/348920178_120692481011459_2527631428311248424_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=PIasueSbBU8AX-HQ6iL&_nc_oc=AQkvr65_GYG1gmZa9BxbKbuYFzO6ivStxfaS_ys8neUJL9lrylx5qCtI_AgHsW8I8mc&_nc_ht=scontent.feze7-1.fna&oh=00_AfCmi0MMnFNqaFtVm5hKL2uFPaZPbsYO3jFH59ID8muLGQ&oe=65C5C95D"
+      },
+      {
+       "name": "RADIO TV",
         "uri": "ljjpD5/Vyx4gNgoslZK+Zv3VpgF3afNSm0c15yVQHNg6j4loI9U9bjVxhjhRufzv/bhzFhLc+03c23f70zrY5NVFgZJffE/Cbr2yKhdOds/ae2oOnB0ZA5KddF3uXAZB",
         "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Catamarca-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
       },
