@@ -164,6 +164,26 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+       "name": " Canal 4 (Posadas)",
+        "uri": "ljjpD5/Vyx4gNgoslZK+Zv3VpgF3afNSm0c15yVQHNg6j4loI9U9bjVxhjhRufzv/bhzFhLc+03c23f70zrY5NVFgZJffE/Cbr2yKhdOds/ae2oOnB0ZA5KddF3uXAZB",
+        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Catamarca-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
+      },
+      {
+       "name": " Canal 4 (Posadas)",
+        "uri": "Y8O9qff5F3UTpbE1KIz38FONk6NdetMFGkaSiYKfrxnlNXAEZpF9lgMUJFYbIip4tQ3LKvH3w3lP7NKwfdDfHg==",
+        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Posadas-en-vivo-Online.png?w=1392&ssl=1"
+      },
+      {
+       "name": "Canal 2 (Salta)",
+        "uri": "bM9N4ODNi2crbpQkkuED1nmxeY4LwActpBaa3lKw+WgThnbl1wmm6+Vqr3lV87o2BtS10BDBohyLl/aMpjX0Vw==",
+        "icono": "https://static.wixstatic.com/media/2308bf_d51afef62c2f4a1a8a50ed7d39713746~mv2.png/v1/fill/w_80,h_121,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tv%20dos%20azul%20(1)_edited.png"
+      },
+      {
+        "name": "Canal 3 (Argentina)",
+        "uri": "TbZ3RctKRDXRIx+eqm5Om/Q6p17AR95I1Y69SEndO0XiSY0eviy5a5r5ZlCeG5eDoEEyQn6/VUBqG+au2qVX69p7ag6cHRkDkp10Xe5cBkE=",
+        "icono": "https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg"
+      },
+      {
         "name": "TV pampeana",
         "uri": "ljjpD5/Vyx4gNgoslZK+Zgv5nC6duN24gWKK9wFHBb/yyenvFw+rvV8ENr7IXPtzJ7678fDbunfgxNBYHWpcbbUNyyrx98N5T+zSsH3Q3x4=",
         "icono": "https://ugc.production.linktr.ee/b718772f-5ceb-4fb9-8412-80ffaee568f5_FB-PERFIL.jpeg?io=true&size=avatar-v1_0"
