@@ -164,6 +164,16 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+       "name": "Canal 10 Television Salteña",
+        "uri": "jZz6z5KEZyo6DRGHpdcddhmxsubRVM3ZTw2KnguBWah07OdzldkgCbxTzS1uinGTqBCWws7zCxCn6i8Ri/3gh5nv/n10n+8aVZC8cqSBp4c=",
+        "icono": "https://yt3.googleusercontent.com/AW2Huy0hf5DX7dHnf_vcD8RuGBSp2xoeWltD4Us5DqRHkrJKS30WiuUN8kf7dQjrofdSdP7mDw=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+       "name": "Canal 10 (Rio Negro)",
+        "uri": "aJQ5Gsa5CITI1xamyRd75gfoWkBWDW2Gbz21+PgKqVsqET71xdgh/06/Uak39/UI2ntqDpwdGQOSnXRd7lwGQQ==",
+        "icono": "https://rionegro.gov.ar/download/images/00058400.jpg"
+      },
+      {
        "name": "Canal 10 Nortevision",
         "uri": "bM9N4ODNi2crbpQkkuED1nmxeY4LwActpBaa3lKw+WhgQj3OwYYqD/GQJGc30H5Faf1XEHM37RQXcVeZhP9Sew==",
         "icono": "https://yt3.googleusercontent.com/ytc/AOPolaQw43H0kV283ZC0xVL-B2CgaBnY2t7tCH7S9vHE=s900-c-k-c0x00ffffff-no-rj"
