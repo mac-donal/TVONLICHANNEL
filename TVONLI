@@ -164,6 +164,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+       "name": "ZondaTV (San Juan)",
+        "uri": "gVJWuUwvFI4Qh8paZ5N/MF5Lf6VNQRWV9nu9OHco9XOAbZEnQFE9yQKnkK7lu58XJghg2wvTD1Hi08Sv3KP4+Q==",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZRZp_HrPBZD7BnAl8GCOVzLI3O7dKmOTfkGlztrlg=s176-c-k-c0x00ffffff-no-rj"
+      },
+      {
        "name": "Canal 10 Television Salteña",
         "uri": "jZz6z5KEZyo6DRGHpdcddhmxsubRVM3ZTw2KnguBWah07OdzldkgCbxTzS1uinGTqBCWws7zCxCn6i8Ri/3gh5nv/n10n+8aVZC8cqSBp4c=",
         "icono": "https://yt3.googleusercontent.com/AW2Huy0hf5DX7dHnf_vcD8RuGBSp2xoeWltD4Us5DqRHkrJKS30WiuUN8kf7dQjrofdSdP7mDw=s900-c-k-c0x00ffffff-no-rj"
