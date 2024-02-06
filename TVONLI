@@ -29,6 +29,11 @@
     "name": "TV ARGENTINA",
     "samples": [
       {
+        "name": "GH EN PRUEBA",
+        "uri": "XZMwdnzIT69nf095FYw/3rRCGzmaJDJvOoNnNUBgn41KgKyb8LEiYBbpbNSnwKlk4ETMosy6TDra18kv5gtgRjD2i7p84DkUeAAKBU6y6SVtrrmUBU2fIh6DzucnNmikSvSAjyaQLJ5E0eYKICgswQ==",
+        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
+      },
+      {
         "name": "TELEFE",
         "uri": "6wU0XaCmnBGiyAIZfa5ZRZMteY3NMZNw/tBm2o2zHIozhq8GASnXKddogiH99raBW6U5+ecjFyesu17zofLNu98O3IaVYnCu0W9efjoouPh9963cKRCMPAyvpdMPIXmt",
         "drm_scheme": "clearkey",
