@@ -21,6 +21,13 @@
         "name": "TIGO GUATEMALA",
         "uri": "uwR45gLa+GVlObpK9V0yMddfyPqGB/8ql1RLZ33skk1GPQAZf+63UXcWKHEfiRJmN/jk9uGjZ19peOitnMWnfel2/upq0ep1fXCJvWHiEsg=",
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
+        },
+        {
+         "name": "test",
+         "uri": "Yubz+SxB4cJcZL7HP9L3nbe60UvqrCfE7yx5wOYB8ybFz5xb7I6RKblDrV398LnLQs8iRUGzaodyTT2gI1aTzqh/c6nVdFIGEpOOtkmvzjKkQBiHPAtUiGfnM4uj1k3n",
+         "drm_scheme": "clearkey",
+         "drm_license_uri": "JtNeHYmOrzNtXlqy4Ba5MNakTk+ZurUJOqri9jK9VAfKEtA1QXpInSMh0KhPPTkk/rf4jpbCZ25goYVqF+Eqzjj2Dr0kmMbfgK5M7OkQhUiZU4CAs+luuaSG60925AVVknNIyr7hzrmMjRUIYwEnEqcMVF2ss8NfdQjwA/Fmh7SDSAnXJLED+sOxYc+qJBxWINuyduy21rhMS+lHa/gjVw==",
+         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg5X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1685504641774"
       }
     ]
   },
