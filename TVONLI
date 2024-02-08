@@ -821,7 +821,7 @@
       },
       {
         "name": "CINECANAL",
-        "uri": "nTUSOouZmCWWGdvQLELi/CCL6fOvE5d/2rIsiH8VFeMk/TCo+UBRgzV1NlGICUcZcXut3t8j1wT0spfPt0xeUM2nXLod9VxoF3VZ1PbW0P293WPQVdMEsqaT99lGAgIY",
+        "uri": "8Bk/+zzARDLilf5YBEDlYZN8+AfXkcob5P+T77MZ8+Nk0iKOXuJ+AqyVcXfkuIDQawNM7JRpylBbqUQcLWEAdShZD+1HwcjPv9Vun330nGAQAWvDKAobaqjGPox9x8+P",
         "drm_scheme": "clearkey",
         "drm_license_uri": "JtNeHYmOrzNtXlqy4Ba5MNakTk+ZurUJOqri9jK9VAfKEtA1QXpInSMh0KhPPTkk/rf4jpbCZ25goYVqF+EqziLV+5S1Ckb80k12JnMSvTIP0QSLTsyx3CnY95Xa+UsAXtNP5EsZdG5DuRE7QGrlWT2XarMhiELBz5dkt4En9UGC50fLgVpWP7/qXcM/yFSsBm6RPztZkctNn/1z/rUVow==",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
@@ -997,17 +997,10 @@
       },
       {
         "name": "HBO XTREME",
-        "uri": "nTUSOouZmCWWGdvQLELi/CCL6fOvE5d/2rIsiH8VFeOp4VsHd6zhu1p1nguXtIGKn1i5NAHteZGxX+qrUyTVrc2nXLod9VxoF3VZ1PbW0P3Ea6ZJYx7Yevg5wl7yF7JX",
+        "uri": "8Bk/+zzARDLilf5YBEDlYZN8+AfXkcob5P+T77MZ8+Nc0bAfJ5SWFrozUO95mbprXN3DCtLWtuVcCaNaj3AdJEgzI90V2Q2NNgeKaZ+JGiX3Sa7k3YlZk61l308CN+py",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEENSJlwv0l/qzA5+Cf7ZnyYLeGknP6xwgRdOVUQHU4hkjwcV0RS9ztFI13od31A6NbP0lhqp7HjZA4LQfHAiK3yeLRBcTW3MXx0vezCo0wgISGPn00oau++5NaP4HAubsA==",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqENW/G0L6rwGfDm/A6uYcMGOKdzYZt/UJs2ePMfZbw/3hZTxFxWca7hgErgZOdm7QYDip6iF/SJ/r92sPtU5dyaSlYTxbabBv31wWkN+vtgRGQ6p4tixTQ4ywp7l1nQ0tvH8o7i6SKt8r9r6h8rYYLKg=",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
-      },
-      {
-        "name": "HBO XTREME2",
-        "uri": "nTUSOouZmCWWGdvQLELi/CCL6fOvE5d/2rIsiH8VFeOp4VsHd6zhu1p1nguXtIGKn1i5NAHteZGxX+qrUyTVrc2nXLod9VxoF3VZ1PbW0P3Ea6ZJYx7Yevg5wl7yF7JX",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEILifR6XFex9Wckmgh1Bgy83bs3yvNCdH7cRJ714PF014AotIWR32LGTdnF6a66kNkwHMNScGIkr62Oss5B2mUiwr1TAvBq61JFuCjlEZpShGXtefxaT+cp7M7HxonVu9w==",
-        "icono": "https://i.postimg.cc/T2g6Mq1c/hbo-xtreme-logo-D424105400-seeklogo-com.png"
       },
       {
         "name": "HBO FAMILY",
