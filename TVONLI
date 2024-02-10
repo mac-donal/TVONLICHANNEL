@@ -479,10 +479,8 @@
     "name": "DEPORTES",
     "samples": [
       {
-        "name": "MLS EVENTOS ",
-        "uri": "9JhWBNGNAsV0XuWRIkyaHAyqynbKzhoiu1vAKx0uX/bSKyHgsETpTOwZX5l+VxweK1wjAjisTOu2hQG6yX06aVgA5wTHkSgQhmuok0DjvAM=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "JtNeHYmOrzNtXlqy4Ba5MNakTk+ZurUJOqri9jK9VAfKEtA1QXpInSMh0KhPPTkk/rf4jpbCZ25goYVqF+EqzsQTZxIpr7248WcMsJuQHX2YeOaKV8D9PhIJxzgM9BJyXf02R14vH1rUZIU7gVJVgu59wFyfUz/5VbAQ2dUuqxqQ5xXfGCugNVIKi9LSXJr8Drv5w2reBaoaVwqCVxHHDg==",
+        "name": "la liga ",
+        "uri": "SK7FK6399H2QS+GEM0eCmX/CtW20/8H7ms1LdxT0f/Xv1vWRhXpWGTHAZcE7R9SzwqTHyzujLXKTNRXPABdZRA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/424px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
       {
