@@ -35,26 +35,6 @@
     "name": "TV ARGENTINA",
     "samples": [
       {
-        "name": "GH EN PRUEBA",
-        "uri": "XZMwdnzIT69nf095FYw/3rRCGzmaJDJvOoNnNUBgn41KgKyb8LEiYBbpbNSnwKlk4ETMosy6TDra18kv5gtgRjD2i7p84DkUeAAKBU6y6SXgS8hO+IwWEanVJxAwTWKd",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
-      {
-        "name": "GH EN PRUEBA 2",
-        "uri": "XZMwdnzIT69nf095FYw/3rRCGzmaJDJvOoNnNUBgn41KgKyb8LEiYBbpbNSnwKlkE6JJYPNV7VhWcScNZGENn8Asp266PbzFWOGlsYGy4eFyad0dceiRE/oyXunNYCX1",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
-      {
-        "name": "GH EN PRUEBA 3",
-        "uri": "XZMwdnzIT69nf095FYw/3rRCGzmaJDJvOoNnNUBgn41KgKyb8LEiYBbpbNSnwKlkE6JJYPNV7VhWcScNZGENn6+AaY1Qgq8B+IK9rMXSKEQjXvKEwLdlvOYAZ6a1pTam",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
-      {
-        "name": "GH EN PRUEBA 4",
-        "uri": "XZMwdnzIT69nf095FYw/3rRCGzmaJDJvOoNnNUBgn41KgKyb8LEiYBbpbNSnwKlkE6JJYPNV7VhWcScNZGENn6bx72WMAWqWl56wax9XuRsJKTHBJVR30xK/RJBpK2ak",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
-      {
         "name": "TELEFE",
         "uri": "6wU0XaCmnBGiyAIZfa5ZRZMteY3NMZNw/tBm2o2zHIozhq8GASnXKddogiH99raBW6U5+ecjFyesu17zofLNu98O3IaVYnCu0W9efjoouPh9963cKRCMPAyvpdMPIXmt",
         "drm_scheme": "clearkey",
