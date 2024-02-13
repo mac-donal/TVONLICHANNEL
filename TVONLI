@@ -683,50 +683,44 @@
         "name": "Terror TV ",
         "uri": "0OQCfualrzW8SVhP4PILzSM9kZuuavb2t6WTWVHY5DmEPWK9DCt4ihiW9VM+eqBUYRIyIolkgPIeFoEo3kDbWQ==",
         "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png"
+     },
+      {
+        "name": "UNIVERSAL CINEMA",
+        "uri": "L+76JqaIMyLtGZauQ/eUhF0C6hdE/+Ozrm/1TvZ6UW3X6QbayOIpG8kzPvrBbroO",
+        "icono": "https://panelssh.com.ar/Img/universalcinema.png"
       },
       {
-        "name": "UNIVERSAL CINEMA ",
-        "uri": "F16RNPikShBbAHJ5CRL10ti7keEUUs1ZbAZdple+BoagB2JiUzdTM+h6rKX1uEFE2Rdf8XLXb0mkQVN7rEOHJyToYf9vXjwtCE9hsGbcmRUgN4jlRHlJmaGaQmuh0BFOnix3D49YnO/viTN+ff6Pwg==",
-        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png"
+        "name": "STUDIO UNIVERSAL",
+        "uri": "nTUSOouZmCWWGdvQLELi/OOxeoyh+nFIjLbZgIw5y1mp4VsHd6zhu1p1nguXtIGKDmwmEFCllmfIZY74b1sjkFyA8Mrf3rENkbN4+ybokt6nn2jQ34FrvMJVxkmUAW1Lz1aqObQYl/RV8Eqh7Dou9g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "JtNeHYmOrzNtXlqy4Ba5MNakTk+ZurUJOqri9jK9VAfKEtA1QXpInSMh0KhPPTkk/rf4jpbCZ25goYVqF+EqztivKDifroDTodmvedOYWzqYOQHE3U+gxCSQSSR6ZfEJZmoc+197eSgYsF0zlxy93yIMJ4Ab/dKENFiUKwFN7uc2wMnn6vd2JWviil3AuXV+/Kx04P010fymPke6+3Inbw==",
+        "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
       },
       {
-        "name": "UNIVERSAL COMEDY OPC 2",
-        "uri": "F16RNPikShBbAHJ5CRL10ti7keEUUs1ZbAZdple+BoagB2JiUzdTM+h6rKX1uEFE2Rdf8XLXb0mkQVN7rEOHJyToYf9vXjwtCE9hsGbcmRXUlOrU72OWGOiqsLpc3pQfnix3D49YnO/viTN+ff6Pwg==",
-        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+        "name": "UNIVERSAL CHANNEL",
+        "uri": "8Bk/+zzARDLilf5YBEDlYZN8+AfXkcob5P+T77MZ8+OPGSXXZrEvICuLrjNnT1H1JFuDb8aT0yqdthACgEuT7VyA8Mrf3rENkbN4+ybokt5RFM5oy91lBHVURrFLrV9ZdV7m9M/jk47Lt6p3d9NmlA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "JtNeHYmOrzNtXlqy4Ba5MNakTk+ZurUJOqri9jK9VAfKEtA1QXpInSMh0KhPPTkk/rf4jpbCZ25goYVqF+EqztyQ3/poKiAFSOeJtedmfsV3k76wZkvlCr3A7syAxwU/sKMh8AmMiqfnvgPzohYfRJa3t0LV31jy7bC/nxvMbIOzmpgbbumAldYnLEMoFeih7FFtD5+lvwDujUwMWRvdtQ==",
+        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
       },
       {
         "name": "UNIVERSAL COMEDY",
-        "uri": "iPGGPeqpDXr4ICUd19QeEIvtt+NHZYKGNZNvOzNVkUU/pE0sBdvKbBjMCbUZ58YP",
+        "uri": "L+76JqaIMyLtGZauQ/eUhF0C6hdE/+Ozrm/1TvZ6UW3UK5rMjqdFxRoZ/Ep79Y17",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL CRIME",
-        "uri": "F16RNPikShBbAHJ5CRL10ti7keEUUs1ZbAZdple+BoagB2JiUzdTM+h6rKX1uEFE2Rdf8XLXb0mkQVN7rEOHJyToYf9vXjwtCE9hsGbcmRVwNtIiUyf/RT08kqAAZ9G1O+DhqBsUoXgmbBFdPsQhqg==",
-        "icono": "http://static.tvar.io/imagenes/uncrime.png"
-      },
-      {
-        "name": "UNIVERSAL CRIME OPC 2",
-        "uri": "iPGGPeqpDXr4ICUd19QeEIvtt+NHZYKGNZNvOzNVkUW2Qn2l2qtxI/DC7P/VsEL3",
+        "uri": "L+76JqaIMyLtGZauQ/eUhF0C6hdE/+Ozrm/1TvZ6UW0OPCLXDSQ10B9BsBdpGDJe",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
-        "uri": "F16RNPikShBbAHJ5CRL10ti7keEUUs1ZbAZdple+BoagB2JiUzdTM+h6rKX1uEFE2Rdf8XLXb0mkQVN7rEOHJyToYf9vXjwtCE9hsGbcmRUgN4jlRHlJmaGaQmuh0BFOnix3D49YnO/viTN+ff6Pwg==",
-        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
-      },
-      {
-        "name": "UNIVERSAL PREMIERE OPC 2",
-        "uri": "F16RNPikShBbAHJ5CRL10ti7keEUUs1ZbAZdple+BoagB2JiUzdTM+h6rKX1uEFE2Rdf8XLXb0mkQVN7rEOHJyToYf9vXjwtCE9hsGbcmRUYl/GKAEGHKZyzC84TX1HC/N7PFSz4pO1ZOVqxerMdbA==",
+        "uri": "aG/y5V1+WO7d0QdZtzE8ja1LNGC7to/ZiXGQ52r07idskz8Qgq5luRySuEvlTrPe",
         "icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
         "name": "UNIVERSAL REALITY",
-        "uri": "F16RNPikShBbAHJ5CRL10ti7keEUUs1ZbAZdple+BoagB2JiUzdTM+h6rKX1uEFE2Rdf8XLXb0mkQVN7rEOHJyToYf9vXjwtCE9hsGbcmRUYl/GKAEGHKZyzC84TX1HC/N7PFSz4pO1ZOVqxerMdbA==",
-        "icono": "http://static.tvar.io/imagenes/unreality.png"
-      },
-      {
-        "name": "UNIVERSAL REALITY OPC 2",
-        "uri": "iPGGPeqpDXr4ICUd19QeEIvtt+NHZYKGNZNvOzNVkUV4GuDHN1yk8xoFuw5fVxqG",
+        "uri": "aG/y5V1+WO7d0QdZtzE8ja1LNGC7to/ZiXGQ52r07ifNYr7HqibEZbJQYED5S5Mv",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       },
       {
