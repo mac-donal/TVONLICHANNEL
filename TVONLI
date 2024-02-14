@@ -1,34 +1,26 @@
-
 [
   {
-    "name": "TIGO SPORTS",
+    "name": "🏆 EVENTOS",
     "samples": [
       {
-        "name": "futbol py 1",
+        "name": "⚽️futbol py",
         "uri": "SK7FK6399H2QS+GEM0eCmX/CtW20/8H7ms1LdxT0f/Xv1vWRhXpWGTHAZcE7R9SzwqTHyzujLXKTNRXPABdZRA==",
-        "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
+        "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
       },
       {
-        "name": "futbol py 2",
-        "uri": "BM1/4YVU2vKp/svtljlwb1pF5lhtW9mxAT4/2/0rTeCT39sFkroas4/g6VQ7J7BSVxQVOsdxvYCLzBjq6uxgvU++BQ/to0WH/whT0T4p46GRxhc1BKQzBIihCr4lMSGPv/EhwgApPjNwhwRH5YW+x+ZPHUNaa9wNoJjE3sDbWiJ7sQ4GHKn+SzjlcaWY23HE4soMQHMIBgMys0FG1eNZ6540R8UYl+ZQNTMyfITRVqNuxWZDHIgv3nY76N1DXh6M2PFjxkGEoysfv4Y/Z53zarqI9548MHygSOo48q94Pyp19tATXTlvlcIIZWfWU0Sc",
-        "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
+        "name": "⚽️paraguay vs venezuela",
+        "uri": "SK7FK6399H2QS+GEM0eCmX/CtW20/8H7ms1LdxT0f/Xv1vWRhXpWGTHAZcE7R9SzwqTHyzujLXKTNRXPABdZRA==",
+        "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
       },
       {
-        "name": "futbol py opcional",
-        "uri": "gVJWuUwvFI4Qh8paZ5N/MKeY4INzW4F1jOUJFoyHIa1LtTT3wqb+E7ihFHfpSgjiFbEgq5S1T+HYoajHoQG85A==",
-        "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
-      },
+        "name": "⚽️paraguay vs venezuelan opc 2",
+        "uri": "SK7FK6399H2QS+GEM0eCmX/CtW20/8H7ms1LdxT0f/Xv1vWRhXpWGTHAZcE7R9SzwqTHyzujLXKTNRXPABdZRA==",
+        "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
+	 },
       {
-        "name": "TIGO GUATEMALA",
-        "uri": "uwR45gLa+GVlObpK9V0yMddfyPqGB/8ql1RLZ33skk1GPQAZf+63UXcWKHEfiRJmN/jk9uGjZ19peOitnMWnfel2/upq0ep1fXCJvWHiEsg=",
-        "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
-        },
-        {
-         "name": "test",
-         "uri": "Yubz+SxB4cJcZL7HP9L3nbe60UvqrCfE7yx5wOYB8ybFz5xb7I6RKblDrV398LnLQs8iRUGzaodyTT2gI1aTzqh/c6nVdFIGEpOOtkmvzjKkQBiHPAtUiGfnM4uj1k3n",
-         "drm_scheme": "clearkey",
-         "drm_license_uri": "JtNeHYmOrzNtXlqy4Ba5MNakTk+ZurUJOqri9jK9VAfKEtA1QXpInSMh0KhPPTkk/rf4jpbCZ25goYVqF+Eqzjj2Dr0kmMbfgK5M7OkQhUiZU4CAs+luuaSG60925AVVknNIyr7hzrmMjRUIYwEnEqcMVF2ss8NfdQjwA/Fmh7SDSAnXJLED+sOxYc+qJBxWINuyduy21rhMS+lHa/gjVw==",
-         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg5X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1685504641774"
+        "name": "⚽️ tigo guatemala",
+        "uri": "SK7FK6399H2QS+GEM0eCmX/CtW20/8H7ms1LdxT0f/Xv1vWRhXpWGTHAZcE7R9SzwqTHyzujLXKTNRXPABdZRA==",
+        "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
       }
     ]
   },
@@ -39,7 +31,7 @@
         "name": "TELEFE",
         "uri": "6wU0XaCmnBGiyAIZfa5ZRZMteY3NMZNw/tBm2o2zHIozhq8GASnXKddogiH99raBW6U5+ecjFyesu17zofLNu98O3IaVYnCu0W9efjoouPh9963cKRCMPAyvpdMPIXmt",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeVRLRlLK5MKiqXJ65uOTneswgsXjFtOuKBf4IiBDtaTKT9Esux47idthKtKPo7luBMuH6RCdrR4GoSh/txEkH9HqfNYwRjLsV+VNzQBAYyjFkluCmf5rZ9eDTo572HEzwQ==",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqENF/XebQISMU+N+yFGzXOfy1TE3iSminb4DAWnd+XTLNNUom34y0qfxpIJtqu243UtLGolohWgtzwXj9+UN7AqdDtymx7OEBX6HN0+M5ekkH88zQ8zdZSSW7LbseHJz0qw==",
         "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
       },
       {
@@ -1012,28 +1004,28 @@
         "name": "HISTORY",
         "uri": "6wU0XaCmnBGiyAIZfa5ZReS06wPOgKyYneZNn86kePjDvv+OCotaKF3LGPgaoIW0qQssK9WY8nMz8+UFMzM2YtdWoO3SgfnEvQLKEyUcBqwtzCPWQodtvNkfYnwNVsAh",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEEyROY+ddbf5BV5tAN8V6lip8vTTdmWwmJ7SxaQV3sZfT3gbQj2IKBpQrGW4PDvUTSzU2z0SXfNHKk2NbnFYZNvKM8dzpF4C/4WSRREGEJzu8zuj8Wkto0FTnRQxn6Cj7Q==",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEJk6T83UbI/2+0OVsI3TW+flkVfKOLyqbcGCuhLTpzCCPFvyS1sUi6ewUSWQ80mgkCzU2z0SXfNHKk2NbnFYZNtTnwurrju0Eo3ZMG8zqB1UCSvUH+w3EMQXarEYaxjv6A==",
         "icono": "https://i.postimg.cc/hjx19JJb/history.png"
       },
       {
         "name": "HISTORY 2",
         "uri": "6wU0XaCmnBGiyAIZfa5ZReS06wPOgKyYneZNn86kePiBCrJNruCtUAmfX7CSo6IgLVJkh1giYRiorI5rUxsgKddWoO3SgfnEvQLKEyUcBqx67PV/LjO9s/6woBOsUbPD",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEOvVuZ6jGaisJlJb+iqGAjyESSnQMgeKNEtUvtx0SbfjCHFKsEMldoHDlLb97KalMiJat8u5BaGsC1lJA/S7PwBE6LEZHwveLH4n7HGmBTwPIEX+mEPT7IIrmTAzDb+KzA==",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEP+spEG8ei0rhMrfgSig2pMnpt8zlz8k8okWnNg8S9DUHa4IpU463eJV05TtBb7pSZUfPNJ57Nx7aMl1zs5jQWr1ZHXGFLYHD3j6+XbggBx3IEX+mEPT7IIrmTAzDb+KzA==",
         "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
       },
       {
         "name": "DISCOVERY",
         "uri": "6wU0XaCmnBGiyAIZfa5ZRVZvI2ARTm87CuwS/HjU5PTQP0K4Hnu5xkuG3HW8vu5n0aPMjZvz5XnKB/XZMhoRlgN5maYmibl14qbjUB8nAAwL7WlaDW0OE2yFcWIYBKEc",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEGXtyGHi5qJP9EV5PI7QQL8ZyqcoNKyGgi0wxMHn0ixdYMnpyv3FKGzsC2AA4G00FmWDFK48GzRPNuWNHpKzujX+JFRgDrYXmp9nWhN+Ppubv4WjHwXD9JKMfrS3ntKaCA==",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEPRiBkXUKLR07pI4PKf9quri/8laO+Hm5pcYyRi9WCUNIUT8WkRLBOS1/BU0RKSyn14Bpo15Kxy5mKHFiFAAmWPgyZL809JyaoLjJTUUdFktv4VJffD23Gzj+lH/ENlOJQ==",
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
       },
       {
         "name": "DISCOVERY H&H",
         "uri": "6wU0XaCmnBGiyAIZfa5ZReOKvJnJ5bpWESHNMBRhtrbQP0K4Hnu5xkuG3HW8vu5nXBXAgfwS/7xbJTqmjNS0dLV4OhX1wHEYzfYxVnVpBqFpO/URKZE1aLEev+tS0GmyMdeZlvX/SLYo7vQo6nK+Cl+eax5Qk3DXZqVKY2+6g/I=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEBz2xAOlNEC3FiTTIICOH9YLOR8mtxlRMVucGghVuWsFNu3I7R0SmrGqPFHuvj6qDK4EZf8Hxgapq6qor5OMl/C9vKjV0h32xe98L+V3kFvYbE7H1UayaZZNecexFUUtZg==",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEAtndFDxIUzZepxMY1rR/lKVQRmLwcApm31U2U0xL0MbAQnlJcXOFuXD/T6BCjmA9K4EZf8Hxgapq6qor5OMl/Cje3i43wUYeqS6RpGHZ0vAUB96rAlGEQtEeE4TdS0GFw==",
         "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
       },
       {
