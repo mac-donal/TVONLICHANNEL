@@ -2013,10 +2013,15 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
       },
       {
-        "name": "VTV PLUS",
+        "name": "VTV PLUS",tJ5tQ4GpW0MxUwNtuRcdXBOhgA7Qgys649hnEBIDUXzS9x82A2neZxxSI8gfegMMF/uYvu4F6/T/q3oVDf7KlQ==
         "uri": "Aa3aHPgH87Ky/IDwzlFwXXcXdB4egyF+KrC2hfjclhgyzv2wH0KP4+I/laTndXn3XIDwyt/esQ2Rs3j7JuiS3sdY77ZG1FRikLGx9nOpTyP3OA0ffDs1znenzoo5l8Cn",
         "drm_scheme": "clearkey",
         "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEAW8flRFU3/D6Rk27/1jWQyewN3mt4D652NEAhkq035XRkaLQfR2zVdsX8WPO6LZxaVObaii9WWm61oYqOLAD9XyHz1D6m/RL/yIHQlQxAauDmDUx46kV7TOAugKCL8Vgw==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+      {
+        "name": "VTV PLUS OPC 2 ",
+        "uri": "tJ5tQ4GpW0MxUwNtuRcdXBOhgA7Qgys649hnEBIDUXzS9x82A2neZxxSI8gfegMMF/uYvu4F6/T/q3oVDf7KlQ==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       }
     ]
