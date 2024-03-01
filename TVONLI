@@ -1082,6 +1082,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
       },
       {
+        "name": "NAT GEO",
+        "uri": "cFiTdaY+PTqunzHAjvUaulqGyr1AaeqFyYNwY0Dux7eqluPx5nTE2U841125x2prM9rdLINXzvGgpApejUiLjR4VPKFhiWpwecaFSatq1bmhIHjc6MROmloTdL4ijdd/",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "qUoSQzKpNITtPRDL2tGqEL1I3Tq1wWlJpdcJa6IxH9mQpVvfuzH3tDsJdrbZHUts3lbWunBo0peX5JKUNPSav1yglZdZxlC9+p3Rlq4vAXiWpcL+GuvZbqClqOQRYPvTLrF0X0bvbje3Va71BoMcLw==",
+        "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png"
+      },
+      {
         "name": "GOURMET..",
         "uri": "Aa3aHPgH87Ky/IDwzlFwXXcXdB4egyF+KrC2hfjclhhpq+9addS+3cnAZXB3rBdnL5F+X0/UNG/PU+aieUm6decNVcOh1G6Q8l8OUr9XH6U=",
         "drm_scheme": "clearkey",
