@@ -1,1 +1,29 @@
-{ "keys":[ { "kty":"oct", "k":"eqkmbtkepFEEgzcAKd/PRQ", "kid":"jqI1zggmQIsiHEmBFam2LQ" } ], "type":"temporary" }
+{
+    "keys": [
+        {
+            "kty": "oct",
+            "k": "eqkmbtkepFEEgzcAKd/PRQ",
+            "kid": "jqI1zggmQIsiHEmBFam2LQ"
+        }
+    ],
+    "type": "temporary"
+}
+
+# Nuevas claves para agregar
+new_keys = [
+    {
+        "kty": "oct",
+        "k": "newKeyExample1",
+        "kid": "newKidExample1"
+    },
+    {
+        "kty": "oct",
+        "k": "newKeyExample2",
+        "kid": "newKidExample2"
+    },
+    {
+        "kty": "oct",
+        "k": "newKeyExample3",
+        "kid": "newKidExample3"
+    }
+]
